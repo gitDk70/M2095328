@@ -1,0 +1,43 @@
+<?php
+
+// FR folder
+return [
+
+    'register_user'   => 'Enregistrer un utilisateur',
+    'name'            => 'Nom',
+    'email'           => 'Courriel',
+    'password'        => 'Mot de passe',
+    'sign_up'         => 'Enregistrer',
+    'remember'        => 'Se souvenir de moi',
+    'newst'        => 'Nouvel etudiant? s\'enregistrer',
+    'signup'        => 'S\'enregistrer',
+    'back'        => 'Retour',
+    'home'        => 'Accueil',
+    'about'        => 'À propos',
+    'register'        => 'S\'inscrire',
+    'dash'         => 'Tableau de bord ',
+    'signin'       =>'Connexion',
+    'logout'  =>'Se deconnecter',
+    'addart' => 'Ajouter un article',
+    'profile' => 'Mon profile',
+    'welcmessage' => 'Bienvenue sur le forum des étudiants de ',
+    'suite' => 'Lire la suite...',
+    'featured' => 'Article en vedette',
+    'cont' => 'Suite...',
+    'welcome' => 'Bienvenue',
+    'edit' => 'Modifier',
+    'search' => 'Rechercher',
+    'ptitle' => 'Titre d\'article',
+    'myart' => 'Mes articles',
+    'body' => 'Texte',
+    'save' => 'Sauvegarder',
+    'editart' => 'Modifier votre article',
+    'listst' => 'Liste de tous les étudiants',
+    'admin' => 'Admin',
+    'addst' => 'Ajouter Étudiant(e)',
+    'upload' => 'Televerser le fichier',
+    'title' => 'Titre',
+    'link' => 'lien',
+    'delete' => 'supprimer',
+    
+  ];
